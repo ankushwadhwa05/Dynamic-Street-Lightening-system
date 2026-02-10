@@ -39,7 +39,7 @@ The system utilizes a "Detection-Trigger" logic to balance safety and savings.
 
 ---
 
-## Code Snippet (Reconstructed)
+## Code Snippet
 The core logic uses the `pulseIn()` function to calculate distance and `analogWrite()` to handle the dimming effect.
 
 ```cpp
