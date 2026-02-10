@@ -14,7 +14,7 @@ This project solves this by using **Ultrasonic Sensors** to detect vehicle prese
 ## Official Recognition
 To validate the project's success and participation in the finals, the official certificate is included below:
 
-![Startup India Certificate](./assets/certificate.jpg)
+![Startup India Certificate](./assets/certificate.jpeg)
 *Note: The original physical prototype and video documentation were lost; this repository serves as a technical reconstruction for portfolio purposes.*
 
 ---
